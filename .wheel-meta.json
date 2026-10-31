@@ -1,0 +1,22 @@
+{
+  "wheel_id": 584,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-103",
+  "project": "kitchen-renovations-adelaide-how-to-choose-a12ce0249f44a4d27ef9",
+  "parent_t1_ref": "adelaidekitchenreno-151",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide how to choose",
+  "intended_url": "http://kitchen-renovations-adelaide-how-to-choose-a12ce0249f44a4d27ef9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "850137d50166dbb2",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-adelaide-seasonal-timing-149a7780117109e/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-adelaide-seasonal-timing-149a7780117109e/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
